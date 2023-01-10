@@ -3,9 +3,9 @@ Parser coinmarketcap
 #Install
 pip install -r requirements.txt
 
-#Start
+# Start
 python main.py
 
-#Result
+# Result
 Create data.csv with delimiter ,
 Name token,price in RUB
